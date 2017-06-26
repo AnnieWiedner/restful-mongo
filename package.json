@@ -1,0 +1,22 @@
+{
+  "name": "restful-mongo",
+  "version": "1.0.0",
+  "description": "Create a RESTful API that CRUDs information to a MongoDB.",
+  "main": "./server/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnieWiedner/restful-mongo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnieWiedner/restful-mongo/issues"
+  },
+  "homepage": "https://github.com/AnnieWiedner/restful-mongo#readme",
+  "dependencies": {
+    "mongoose": "^4.11.0"
+  }
+}
